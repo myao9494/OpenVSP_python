@@ -104,3 +104,5 @@ ENV/
 *.html
 *.vsptime
 999_factory
+OpenVSP-3.15.0-win64-py27/
+OpenVSP-3.15.0-win64-py36/
